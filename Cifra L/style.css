@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#Title {
+    font-family: 'Consolas', Consolas, monospace;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 450%;
+    color: rgb(0, 0, 0);
+}
+
+#Letters {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 150%;
+    font-weight: normal;
+}
